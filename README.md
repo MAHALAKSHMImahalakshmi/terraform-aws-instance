@@ -86,9 +86,9 @@ Check out the working implementation here 👉 [`roboshop-ec2-test`](https://git
 That repo uses this module to spin up a real EC2 instance with automation and tagging.
 
 ### 💡 Summary
-✅ Reusable EC2 module using Terraform
-✅ Designed with best practices, validations & outputs
-✅ Real-world tested in multiple environments
-✅ Linked to practical example in roboshop-ec2-test
+- ✅ Reusable EC2 module using Terraform
+- ✅ Designed with best practices, validations & outputs
+- ✅ Real-world tested in multiple environments
+- ✅ Linked to practical example in roboshop-ec2-test
 
 
